@@ -151,8 +151,33 @@ Thanks to Databricks Partner Connect, I was able to provide the BI connector to 
 
 ### Loading In Synapse
 To load our curated data, I used CETAS functions and OPENROWSET to create External Tables, carefully defining the data sources and file formats to ensure accurate and efficient table creation.
-<img width="1419" height="705" alt="Screenshot 2025-10-09 at 08 36 3<img width="1419" height="705" alt="Screenshot 2025-10-09 at 09 00 48" src="https://github.com/user-attachments/assets/d31db5ac-0847-4b73-92b7-d7d9b3f86f50" />
-3" src="https://github.com/user-attachments/assets/4e4e82![Uploading Screenshot 2025-10-09 at 09.00.48.png…]()
+Code-> 
+--- CREATE MASTER KEY
+CREATE MASTER KEY ENCRYPTION BY PASSWORD = ''
+
+---- Database Scoped Credentials
+
+CREATE DATABASE SCOPED CREDENTIAL jesscreds
+WITH IDENTITY = 'Managed Identity'
+
+---External File Format
+CREATE EXTERNAL FILE FORMAT parquet
+WITH
+(
+    FORMAT_TYPE = PARQUET,
+    DATA_COMPRESSION = 'org.apache.hadoop.io.compress.SnappyCodec'
+)
+
+CREATE EXTERNAL FILE FORMAT delta
+WITH
+(
+    FORMAT_TYPE = DELTA
+)
+
+
+
+<img width="1419" height="705" alt="Screenshot 2025-10-09 at 09 00 48" src="https://github.com/user-attachments/assets/d31db5ac-0847-4b73-92b7-d7d9b3f86f50" />
+<img width="1419" height="705" alt="Screenshot 2025-10-09 at 08 36 33" src="https://github.com/user-attachments/assets/4e4e82![Uploading Screenshot 2025-10-09 at 09.00.48.png…]()
 77-56be-40f4-9707-b1ba8e91b069" />
 <img width="1419" height="705" alt="Screenshot 2025-10-09 at 08 37 14" src="https://github.com/user-attachments/assets/31131c51-75dc-42d1-80f0-76fdde958936" />
 <img width="1419" height="705" alt="Screenshot 2025-10-09 a![Uploading Screenshot 2025-10-09 at 09.00.48.png…]()
