@@ -105,6 +105,8 @@ Using dbutils.widgets.text(), I parameterized the notebook to enable flexible an
 
 
 As shown with the Region table, no changes were detected since no new data was added—demonstrating that our incremental load process worked successfully.
+
+
 <img width="746" height="657" alt="Screenshot 2025-10-07 at 23 38 25" src="https://github.com/user-attachments/assets/aa0b7da5-45a7-4868-97c1-a799624902c6" />
 
 
