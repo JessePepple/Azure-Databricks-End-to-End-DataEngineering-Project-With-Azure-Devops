@@ -117,8 +117,8 @@ Using Delta Live Tables (DLT), a declarative ETL framework, I was able to automa
 
 As seen there were no dropped data so our data quality check is a success
 <img width="1423" height="705" alt="Screenshot 2025-10-09 at 06 34 09" src="https://github.com/user-attachments/assets/fb602b6f-0262-4b1a-ae7a-c2e866b4fc95" />
-<img width="1423<img width="1423" height="433" alt="Screenshot 2025-10-09 at 06 44 35" src="https://github.com/user-attachments/assets/2022535c-d5b1-454d-89a0-a16f108d0e8c" />
-" height="705" alt="Screenshot 2025-10-09 at 06 39 30" src="https://github.com/user-attachments/assets/ca82b65d-0f46-4b93-b956-c32b4abc3f04" />
+<img width="1423" height="433" alt="Screenshot 2025-10-09 at 06 44 35" src="https://github.com/user-attachments/assets/2022535c-d5b1-454d-89a0-a16f108d0e8c" />
+<img width="1423" height="705" alt="Screenshot 2025-10-09 at 06 39 30" src="https://github.com/user-attachments/assets/ca82b65d-0f46-4b93-b956-c32b4abc3f04" />
 <img width="1423" height="700" alt="Screenshot 2025-10-09 at 04 58 43" src="https://github.com/user-attachments/assets/d8564cbf-cdfe-4451-933e-fcd5267e8106" />
 
 <img width="1423" height="433" alt="Screenshot 2025-10-09 at 06 44 35" src="https://github.com/user-attachments/assets/82e6f9a5-182b-47bf-b891-fbeed78dc3fc" />
