@@ -1,5 +1,54 @@
 This Data Engineering project showcases the extensive capabilities of Azure Databricks, Azure Data Factory (ADF), and Azure Data Lake, while highlighting key data engineering practices such as Slowly Changing Dimensions SCD Type 1(Manually) and Type 2(Automatic via DLT), Star Schema design, and incremental loading. My approach not only involved ingesting source data efficiently using Spark Structured Streaming but also designing robust SCD Type 1 pipelines. After transforming and curating the data from the staging layer to the core layer, the final datasets were delivered to both Azure Synapse Analytics and Databricks SQL Warehouse, making them fully prepared for analytics and reporting.
 
+Azure Services:
+
+
+
+
+
+Azure Databricks
+
+
+
+Azure Data Factory (ADF)
+
+
+
+Azure Data Lake Storage (ADLS Gen2)
+
+
+
+Azure Synapse Analytics
+
+
+
+Databricks Components:
+
+
+
+
+
+
+
+Delta Lake & Delta Tables
+
+
+
+Delta Live Tables (DLT for SCD Type 2 automation)
+
+
+
+Databricks SQL Warehouse
+
+
+
+Languages & Tools:
+Python (PySpark / notebooks)
+SQL
+
+Spark Structured Streaming (for incremental loads)
+
+
 <img width="1444" height="902" alt="Group 5" src="https://github.com/user-attachments/assets/028dac7e-824f-4079-a22e-3e45eea82fbc" />
 
 ## Creating And Ingesting Orders Source Data with ADF and Azure Devops
