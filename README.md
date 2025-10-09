@@ -16,6 +16,7 @@ After creating the branch, I switched back to DataFactory to configure the repos
 I ingested the data using the Lookup and ForEach activities in Azure Data Factory, transforming the source files from CSV to Parquet format during the process. Once the ingestion workflow was successfully executed, I planned to merge this branch back into the main repository.
 <img width="1434" height="726" alt="Screenshot 2025-10-06 at 17 39 51" src="https://github.com/user-attachments/assets/d28501db-4512-4eec-a357-559572e24ff5" />
 <img width="1434" height="717" alt="Screenshot 2025-10-07 at 20 34 53" src="https://github.com/user-attachments/assets/73610997-6fa2-4a17-99b8-e7eb176d1824" />
+
 ## Pipeline Template
 <img width="1434" height="652" alt="Screenshot 2025-10-06 at 17 49 52" src="https://github.com/user-attachments/assets/dcd9bdac-cc7a-43c9-b363-e695b253517f" />
 
