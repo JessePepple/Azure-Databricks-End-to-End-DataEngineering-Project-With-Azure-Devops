@@ -49,7 +49,9 @@ SQL
 Spark Structured Streaming (for incremental loads)
 
 For proper Storytelling of this project visit this link: 
-https://www.jesseportfolio.co.uk/post/azure-databricks-end-to-end-dataengineering-project-with-azure-devops 
+https://www.jesseportfolio.co.uk/post/azure-databricks-end-to-end-dataengineering-project-with-azure-devops   
+
+
 <img width="1444" height="902" alt="Group 5" src="https://github.com/user-attachments/assets/028dac7e-824f-4079-a22e-3e45eea82fbc" />
 
 ## Creating And Ingesting Orders Source Data with ADF and Azure Devops
