@@ -91,7 +91,7 @@ Using dbutils.widgets.text(), I parameterized the notebook to enable flexible an
 <img width="1434" height="702" alt="Screenshot 2025-10-07 at 23 26 42" src="https://github.com/user-attachments/assets/6106f143-b3bd-4929-8658-0fbf72b87346" />
 
 <img width="1434" height="702" alt="Screenshot 2025-10-07 at 23 26 23" src="https://github.com/user-attachments/assets/647325d0-1bb3-4816-bbd5-933512389b1c" />
-<img width="746" height="657" alt="Screenshot 2025-10-07 at 23 38 25" src="https://github.com/user-attachments/assets/0e3f3e66-d23f-4e77-ae0c-adc8e2a5f003" />
+
 
 <img width="1434" height="702" alt="Screenshot 2025-10-07 at 23 34 14" src="https://github.com/user-attachments/assets/0fc1cccf-94c1-418a-8288-b3e4ef0872cc" />
 <img width="1434" height="702" alt="Screenshot 2025-10-07 at 23 35 55" src="https://github.com/user-attachments/assets/54d01c44-1ba9-4e21-9939-0ba2eb398311" />
