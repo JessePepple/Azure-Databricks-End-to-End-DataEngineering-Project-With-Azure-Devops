@@ -48,7 +48,7 @@ SQL
 
 Spark Structured Streaming (for incremental loads)
 
-For proper Storytelling of this project visit this link: 
+For the detailed Storytelling of this project visit this link: 
 https://www.jesseportfolio.co.uk/post/azure-databricks-end-to-end-dataengineering-project-with-azure-devops   
 
 
