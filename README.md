@@ -198,7 +198,7 @@ I tested out our curated datsets with the SQL Warehouse playing with Queries and
 <img width="1419" height="705" alt="Screenshot 2025-10-09 at 07 50 13" src="https://github.com/user-attachments/assets/f2e23b2b-7c94-4452-97c6-c65608f2ffeb" />
 
 ### BI Partner Connect
-Thanks to Databricks Partner Connect, I was able to provide the BI connector to the Data Analyst, enabling them to directly query and visualize the cleaned data in Power BI with ease—without needing to rely on the SQL Data Warehouse. Followed after was loading my data in Synapse Warehouse thus, the conclusion of my project.
+Thanks to Databricks Partner Connect, I was able to provide the BI connector to Data Analysts, enabling them to directly query and visualize the cleaned data in Power BI with ease—without needing to rely on the SQL Data Warehouse. Followed after was loading my data in Synapse Warehouse thus, the conclusion of my project.
 <img width="1419" height="705" alt="Screenshot 2025-10-09 at 07 48 18" src="https://github.com/user-attachments/assets/ed44c7a0-bd23-450b-af29-b380c646c08b" />
 
 ### Loading In Synapse
